@@ -6,3 +6,4 @@ This repo might use many different languages and frameworks - Beware!
 #### Without Frameworks / Librarys / Engines
 - [Pong](/pong/) *html | js*
 - [Medieval-Combat-Auto-Combat](/medieval-combat/) *c#*
+- [Snake](/snake/) *html | js*
