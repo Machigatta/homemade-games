@@ -8,3 +8,4 @@ This repo might use many different languages and frameworks - Beware!
 - [Medieval-Combat-Auto-Combat](/medieval-combat/) *c#*
 - [Snake](/snake/) *html | js*
 - [Simple Pat-Clicker](/simple-pat-clicker/) *html | js*
+- [Flappy Bird](/flappy-bird/) *html | js*
