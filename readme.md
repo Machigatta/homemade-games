@@ -9,3 +9,4 @@ This repo might use many different languages and frameworks - Beware!
 - [Snake](/snake/) *html | js*
 - [Simple Pat-Clicker](/simple-pat-clicker/) *html | js*
 - [Flappy Bird](/flappy-bird/) *html | js*
+- [Text Adventure: Standby](/text-adventure-standby/) *html | js*
